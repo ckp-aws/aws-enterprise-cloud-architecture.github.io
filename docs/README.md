@@ -1,6 +1,3 @@
-#### NEEEEEEEEEEEEEEEEEEEW ########################
-
-
 
 # **AWS Enterprise Cloud Architecture**
 
