@@ -106,4 +106,9 @@ Contributions, discussions, and suggestions are welcome!
 Feel free to raise issues or submit pull requests to strengthen the repository.
 
 ***
+## 📄 ** Documents **
+
+**AWS Migration Overview with Zachman Framework** : [AWS Migration Overview with Zachman Framework](aws-migration-overview-with-zachman-framework.md)
+
+***
 
